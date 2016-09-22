@@ -1,0 +1,37 @@
+Expense[1].name=tenis de picior
+Expense[1].date=14.09.2016
+Expense[1].singleCost=10.0
+Expense[1].pcs=1
+Expense[1].description=ca de obicei
+
+Expense[2].name=pranz
+Expense[2].date=14.09.2016
+Expense[2].singleCost=12.0
+Expense[2].pcs=1
+Expense[2].description=la carfur
+
+Expense[3].name=varza si paine
+Expense[3].date=14.09.2016
+Expense[3].singleCost=7.0
+Expense[3].pcs=1
+Expense[3].description=de la mega
+
+
+Expense[4].name=test
+Expense[4].date=15.09.2016
+Expense[4].singleCost=10.0
+Expense[4].pcs=10
+Expense[4].description=test
+
+Expense[5].name=test2
+Expense[5].date=15.09.2016
+Expense[5].singleCost=5.0
+Expense[5].pcs=5
+Expense[5].description=test2
+
+Expense[6].name=tetete
+Expense[6].date=19.09.2016
+Expense[6].singleCost=1245.0
+Expense[6].pcs=3
+Expense[6].description=description test
+
